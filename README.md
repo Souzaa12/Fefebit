@@ -9,4 +9,8 @@
  ## Entrar em contato comigo 🔊
 
  -00001124768051sp@al.educacao.sp.gov.br
- 
+
+
+ ![]()
+ ![dance-break](https://github.com/user-attachments/assets/831c5564-a14f-42c3-b4c0-cddda81a5e04)
+
