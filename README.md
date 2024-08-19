@@ -1,4 +1,4 @@
-## Bem vimdo ao meu perfil 💙
+## Bem vindo ao meu perfil 💙
 
  Me chamo Luis Fernando da Silva
 
