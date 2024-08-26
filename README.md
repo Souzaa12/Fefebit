@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Guilherme Francisco Batista
+ Me chamo Thavine Aparecida De Jesus Souza
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001136856663sp@al.educacao.sp.gov.br
+ -0001124769493sp@al.educacao.sp.gov.br
 
 
  ![]()
