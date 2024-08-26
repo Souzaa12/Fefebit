@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Heloa Amâncio Veiga
+ Me chamo Mauro Matheus da Silva Menezes
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -0001166811219sp@al.educacao.sp.gov.br
+ -00001100168746sp@al.educacao.sp.gov.br
 
 
  ![]()
