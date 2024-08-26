@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Mauro Matheus da Silva Menezes
+ Me chamo Giovani Fernandes de Campos
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001100168746sp@al.educacao.sp.gov.br
+ -00001124771608sp@al.educacao.sp.gov.br
 
 
  ![]()
