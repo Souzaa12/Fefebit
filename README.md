@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Maria Emanuelly Aparecida da Silva 
+ Me chamo Ana Clara Morais Leme Alves
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001139814667sp@al.educacao.sp.gov.br
+ -00001122381542sp@al.educacao.sp.gov.br
 
 
  ![]()
