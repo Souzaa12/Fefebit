@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Ryan Alves Zandrini Ferreira 
+ Me chamo Matheus Felipe Vaz dos Santos  
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -0000110752538xsp@al.educacao.sp.gov.br
+ -00001136862560sp@al.educacao.sp.gov.br
 
 
  ![]()
