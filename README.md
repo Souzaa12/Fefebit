@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Ana Clara Morais Leme Alves
+ Me chamo Ryan Alves Zandrini Ferreira 
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001122381542sp@al.educacao.sp.gov.br
+ -0000110752538xsp@al.educacao.sp.gov.br
 
 
  ![]()
