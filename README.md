@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Luis Fernando da Silva
+ Me chamo Maria Emanuelly Aparecida da Silva 
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001124768051sp@al.educacao.sp.gov.br
+ -00001139814667sp@al.educacao.sp.gov.br
 
 
  ![]()
