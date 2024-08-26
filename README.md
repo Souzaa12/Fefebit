@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Giovani Fernandes de Campos
+ Me chamo Douglas Ribeiro Candido
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001124771608sp@al.educacao.sp.gov.br
+ -00001126124825sp@al.educacao.sp.gov.br
 
 
  ![]()
